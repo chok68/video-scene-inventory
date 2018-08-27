@@ -11,11 +11,12 @@ This is a command line tool that takes a video as input and shows information ab
 - Setting – Where are we? (Image classifier telling where are we, what are seeing: desert, nature, a room, etc.)
 - Exposition – Necessary information. Quick and Clever (Object detection and count: Person, Cars, Airplane, etc.)
 
-## Setup
+## System Requirements
 
 - Tested/Developed on Windows 10
 - Python 3.6
 - Python PIP (installed along with Python)
+- Microsoft Visual C++ Build Tools for the COCO API... more info here: [https://github.com/philferriere/cocoapi](https://github.com/philferriere/cocoapi)
 
 ### Clone or download zip
 
